@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://app.daily.dev/heetab"><img src="https://api.daily.dev/devcards/v2/fTeDvH6iK7CUW0KuMgFGf.png?r=7ri&type=wide" width="500" alt="Mohamed Atheeb's Dev Card"/></a>
-<a href="https://g.dev/heetab"><img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" alt="IDX User Batch"/></a>
+<div class="flex justify-content: center;">
+  <a href="https://app.daily.dev/heetab"><img src="https://api.daily.dev/devcards/v2/fTeDvH6iK7CUW0KuMgFGf.png?r=7ri&type=wide" width="500" alt="Mohamed Atheeb's Dev Card"/></a>
+  <a href="https://g.dev/heetab"><img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" width="50" height="50" alt="IDX User Batch"/></a>
+</div>
