@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/heetab"><img src="https://api.daily.dev/devcards/v2/fTeDvH6iK7CUW0KuMgFGf.png?r=7ri&type=wide" width="652" alt="Mohamed Atheeb's Dev Card"/></a>
+<a href="https://app.daily.dev/heetab"><img src="https://api.daily.dev/devcards/v2/fTeDvH6iK7CUW0KuMgFGf.png?r=7ri&type=wide" width="400" alt="Mohamed Atheeb's Dev Card"/></a>
