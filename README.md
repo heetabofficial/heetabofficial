@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <div class="flex justify-content: center;">
   <a href="https://app.daily.dev/heetab"><img src="https://api.daily.dev/devcards/v2/fTeDvH6iK7CUW0KuMgFGf.png?r=7ri&type=wide" width="500" alt="Mohamed Atheeb's Dev Card"/></a>
   <a href="https://g.dev/heetab"><img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" width="50" height="50" alt="IDX User Batch"/></a>
+  <a href="https://tryhackme.com/p/crackdevil"><img src="https://8gzttmbfaq.ufs.sh/f/p1z9Ac4oGQB12GoCKHlVYtE1WBfD0chmaIx82JReTACHoLi3" width="500" alt="THM Leader Board"/></a>
 </div>
